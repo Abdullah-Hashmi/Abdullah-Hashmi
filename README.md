@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hashmi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-hashmi" /> </p>
 
-- 🌱 I’m currently learning **React & React Native**
+- 🌱 I am mobile App developer using React Native**
 
 - 📫 How to reach me **syedabdullah.developer@gmail.com**
 
