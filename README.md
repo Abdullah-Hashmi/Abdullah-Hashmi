@@ -9,7 +9,9 @@
 
 - 🌱 I am mobile App developer using React Native
 
-- 📫 How to reach me **syedabdullah.developer@gmail.com** **www.linkedin.com/in/syed-abdullah2001**
+- 📫 How to reach me **syedabdullah.developer@gmail.com**
+  
+- My LinkedIn **www.linkedin.com/in/syed-abdullah2001**
 
 - ⚡ Fun fact **I’m funny😅**
 
