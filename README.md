@@ -83,7 +83,7 @@
 
 ---
 
-### 📱 Noteworthy Projects
+<!-- ### 📱 Noteworthy Projects
 #### **[Helping Hands](https://github.com/Abdullah-Hashmi/HelpingHands)**
 - A React Native app connecting volunteers and those in need.
 - Features real-time chat, task assignment, and user role management.
@@ -93,7 +93,7 @@
 - Developed using Flutter, TypeScript, and mock data for testing.
 
 #### **Messaging App**
-- Built with React Native CLI, featuring real-time messaging, status updates, and a sleek UI.
+- Built with React Native CLI, featuring real-time messaging, status updates, and a sleek UI.-->
 
 ---
 
