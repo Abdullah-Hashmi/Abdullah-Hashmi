@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hashmi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-hashmi" /> </p>
 
-- 🌱 I am mobile App developer using React Native
+- 🌱 I am mobile App developer skilled in Flutter & React Native mobile Apps development
 
 - 📫 How to reach me **syedabdullah.developer@gmail.com**
   
