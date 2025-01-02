@@ -16,6 +16,7 @@
 
 📫 **Reach me at**: [syedabdullah.developer@gmail.com](mailto:syedabdullah.developer@gmail.com)  
 🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/syed-abdullah2001)  
+🔗 **WhatsApp**: +92-3331714636
 
 ⚡ **Fun Fact**: I believe humor makes work-life better—so yes, I’m funny! 😅
 
@@ -37,6 +38,48 @@
 #### **Version Control & Deployment**
 - Git, GitHub, GitHub Actions, CI/CD pipelines
 - Familiar with **App Store** and **Google Play Store** deployment processes.
+
+---
+
+<!--<h3 align="left">🛠️ Languages and Tools:</h3>-->
+<p align="left">
+  <!-- React Native and Flutter Tools -->
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+<!--   <a href="https://realm.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Realm_logo.png" alt="Realm" width="40" height="40"/>
+  </a>
+  <a href="https://pub.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/40299336?s=200&v=4" alt="Pub.dev" width="40" height="40"/>
+  </a> -->
+
+  <!-- Additional Tools -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
