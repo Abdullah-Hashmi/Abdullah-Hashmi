@@ -27,6 +27,10 @@
 
 ## 🛠️ Skills & Tools
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🔹 Programming & Frameworks
 - **Languages:** Dart, JavaScript, TypeScript, C, C++
 - **Frameworks:** Flutter, React Native, Redux, Tailwind CSS
@@ -36,12 +40,21 @@
 - **Strengths:** Pixel-perfect, responsive design
 
 ### 🗃️ Databases & APIs
-- **Databases:** SQLite, MySQL, Firebase  
+- **Databases:** SQLite, MySQL, Firebase
 - **APIs:** REST, GraphQL
 
 ### 🚀 Deployment & Version Control
-- Git, GitHub, GitHub Actions, CI/CD pipelines  
+- Git, GitHub, GitHub Actions, CI/CD pipelines
 - Familiar with App Store & Google Play Store publishing
+
+</td>
+<td width="40%">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF3MG53d2IyMG1pcnZuemdkZG51aWRlYTl6dzhmcmJscXV2NWx2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,7 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-hashmi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-hashmi&" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdullah-hashmi&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
@@ -106,6 +119,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://threads.net/@syed_developer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threads/threads-original.svg" alt="Threads" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Threads_%28app%29_logo.svg" alt="Threads" height="30" width="40" />
   </a>
 </p>
